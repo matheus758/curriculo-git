@@ -1,0 +1,3 @@
+$ git remote add origin https://github.com/matheus758/curriculo-git.git
+$ git push -u origin master
+
